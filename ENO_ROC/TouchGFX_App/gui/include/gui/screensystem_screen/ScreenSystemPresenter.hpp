@@ -1,3 +1,15 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+// fileName: ScreenSystemPresenter.hpp
+//
+// Description: TouchGFX System Health Monitor Presenter Header
+//             MVP Pattern Presenter for System Health Screen (C API Version)
+//
+// Author: Generated for Enovation Controls TouchGFX Project
+//
+// Copyright: Enovation Controls 2024
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
 #ifndef SCREENSYSTEMPRESENTER_HPP
 #define SCREENSYSTEMPRESENTER_HPP
 
@@ -26,6 +38,9 @@ public:
     virtual void deactivate();
 
     virtual ~ScreenSystemPresenter() {}
+
+    // Model update notifications
+    virtual void notifySystemHealthUpdate();
 
 private:
     ScreenSystemPresenter();

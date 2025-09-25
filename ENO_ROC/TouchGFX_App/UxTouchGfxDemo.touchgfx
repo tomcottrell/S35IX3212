@@ -1549,59 +1549,7 @@
             }
           }
         ],
-        "Interactions": [
-          {
-            "InteractionName": "handle_button_press_0",
-            "Trigger": {
-              "Type": "TriggerPhysicalButtonClicked"
-            },
-            "Action": {
-              "Type": "ActionCustom2",
-              "ActionCustomTypeName": "Call ScreenLCDtest buttonHandler",
-              "ParameterValue": "0",
-              "ActionComponent": "ScreenSystem"
-            }
-          },
-          {
-            "InteractionName": "handle_button_press_1",
-            "Trigger": {
-              "Type": "TriggerPhysicalButtonClicked",
-              "ButtonKey": 1
-            },
-            "Action": {
-              "Type": "ActionCustom2",
-              "ActionCustomTypeName": "Call ScreenLCDtest buttonHandler",
-              "ParameterValue": "1",
-              "ActionComponent": "ScreenSystem"
-            }
-          },
-          {
-            "InteractionName": "handle_button_press_2",
-            "Trigger": {
-              "Type": "TriggerPhysicalButtonClicked",
-              "ButtonKey": 2
-            },
-            "Action": {
-              "Type": "ActionCustom2",
-              "ActionCustomTypeName": "Call ScreenLCDtest buttonHandler",
-              "ParameterValue": "2",
-              "ActionComponent": "ScreenSystem"
-            }
-          },
-          {
-            "InteractionName": "handle_button_press_3",
-            "Trigger": {
-              "Type": "TriggerPhysicalButtonClicked",
-              "ButtonKey": 3
-            },
-            "Action": {
-              "Type": "ActionCustom2",
-              "ActionCustomTypeName": "Call ScreenLCDtest buttonHandler",
-              "ParameterValue": "3",
-              "ActionComponent": "ScreenSystem"
-            }
-          }
-        ],
+        "Interactions": [],
         "CustomActions": [
           {
             "Name": "buttonHandler",

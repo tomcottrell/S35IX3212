@@ -19,7 +19,6 @@ public:
     ScreenSystemViewBase();
     virtual ~ScreenSystemViewBase();
     virtual void setupScreen();
-    virtual void handleKeyEvent(uint8_t key);
 
     /*
      * Custom Actions

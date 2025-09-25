@@ -245,16 +245,16 @@
       <UniqueIdentifier>84B8E4C0-2194-0A37-B2E4-2ED3C7813558</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\gui\screensystem_screen">
-      <UniqueIdentifier>E84D1625-4EDF-C0CE-6828-7F74B8B73ADD</UniqueIdentifier>
+      <UniqueIdentifier>11AAA7BB-EEF8-C85F-733C-559BA224399B</UniqueIdentifier>
     </Filter>
     <Filter Include="Header Files\gui\screensystem_screen">
-      <UniqueIdentifier>68D32CCD-F781-B8D9-A2F4-7459F40201C1</UniqueIdentifier>
+      <UniqueIdentifier>9EA4368D-745E-7A2E-D57B-55AC20052901</UniqueIdentifier>
     </Filter>
     <Filter Include="Header Files\generated\gui_generated\screensystem_screen">
-      <UniqueIdentifier>13BDA042-732E-E20F-C3A3-215F66A6A35C</UniqueIdentifier>
+      <UniqueIdentifier>A505DF6C-2F4D-124F-3067-8F2A6C0907CC</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\generated\gui_generated\screensystem_screen">
-      <UniqueIdentifier>8E190DAA-8DE1-E66E-1958-531B86CE6224</UniqueIdentifier>
+      <UniqueIdentifier>F1D57D3D-43AB-4844-E111-E24AD1D81971</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
