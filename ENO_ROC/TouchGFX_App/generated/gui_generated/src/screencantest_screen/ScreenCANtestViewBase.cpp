@@ -38,6 +38,18 @@ ScreenCANtestViewBase::ScreenCANtestViewBase()
     textArea1.setTypedText(touchgfx::TypedText(T___SINGLEUSE_T5SL));
     add(textArea1);
 
+    textArea1_1.setXY(104, 219);
+    textArea1_1.setColor(touchgfx::Color::getColorFromRGB(0, 0, 0));
+    textArea1_1.setLinespacing(0);
+    textArea1_1.setTypedText(touchgfx::TypedText(T___SINGLEUSE_1XYQ));
+    add(textArea1_1);
+
+    textArea1_1_1.setXY(182, 219);
+    textArea1_1_1.setColor(touchgfx::Color::getColorFromRGB(0, 0, 0));
+    textArea1_1_1.setLinespacing(0);
+    textArea1_1_1.setTypedText(touchgfx::TypedText(T___SINGLEUSE_28RV));
+    add(textArea1_1_1);
+
     boxWithBorder1.setPosition(0, 0, 160, 75);
     boxWithBorder1.setColor(touchgfx::Color::getColorFromRGB(255, 255, 255));
     boxWithBorder1.setBorderColor(touchgfx::Color::getColorFromRGB(180, 180, 180));
@@ -204,6 +216,15 @@ void ScreenCANtestViewBase::handleKeyEvent(uint8_t key)
         //When hardware button 0 clicked call buttonHandler on ScreenCANtest
         //Call buttonHandler
         buttonHandler(0);
+    
+    }
+
+    if(1 == key)
+    {
+        //handle_button_press_1
+        //When hardware button 1 clicked call buttonHandler on ScreenCANtest
+        //Call buttonHandler
+        buttonHandler(1);
     
     }
 }

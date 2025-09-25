@@ -17,6 +17,8 @@
 #include <gui/screeninputstest_screen/ScreenInputsTestPresenter.hpp>
 #include <gui/screenoutputstest_screen/ScreenOutputsTestView.hpp>
 #include <gui/screenoutputstest_screen/ScreenOutputsTestPresenter.hpp>
+#include <gui/screensystem_screen/ScreenSystemView.hpp>
+#include <gui/screensystem_screen/ScreenSystemPresenter.hpp>
 #include <gui/screenlcdtest_screen/ScreenLCDtestView.hpp>
 #include <gui/screenlcdtest_screen/ScreenLCDtestPresenter.hpp>
 

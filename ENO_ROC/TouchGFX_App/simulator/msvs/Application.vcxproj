@@ -38,6 +38,9 @@
     <ClCompile Include="..\..\gui\src\screenlcdtest_screen\ScreenLCDtestPresenter.cpp"/>
     <ClCompile Include="..\..\gui\src\screenlcdtest_screen\ScreenLCDtestView.cpp"/>
     <ClCompile Include="..\..\generated\gui_generated\src\screenlcdtest_screen\ScreenLCDtestViewBase.cpp"/>
+    <ClCompile Include="..\..\gui\src\screensystem_screen\ScreenSystemPresenter.cpp"/>
+    <ClCompile Include="..\..\gui\src\screensystem_screen\ScreenSystemView.cpp"/>
+    <ClCompile Include="..\..\generated\gui_generated\src\screensystem_screen\ScreenSystemViewBase.cpp"/>
   </ItemGroup>
   <ItemGroup>
     <None Include="$(ApplicationRoot)\assets\texts\texts.xml"/>
@@ -205,6 +208,9 @@
     <ClInclude Include="..\..\gui\include\gui\screenlcdtest_screen\ScreenLCDtestPresenter.hpp"/>
     <ClInclude Include="..\..\gui\include\gui\screenlcdtest_screen\ScreenLCDtestView.hpp"/>
     <ClInclude Include="..\..\generated\gui_generated\include\gui_generated\screenlcdtest_screen\ScreenLCDtestViewBase.hpp"/>
+    <ClInclude Include="..\..\gui\include\gui\screensystem_screen\ScreenSystemPresenter.hpp"/>
+    <ClInclude Include="..\..\gui\include\gui\screensystem_screen\ScreenSystemView.hpp"/>
+    <ClInclude Include="..\..\generated\gui_generated\include\gui_generated\screensystem_screen\ScreenSystemViewBase.hpp"/>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="$(ApplicationRoot)\generated\simulator\touchgfx.rc"/>

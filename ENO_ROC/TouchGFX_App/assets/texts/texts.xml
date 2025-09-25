@@ -25,6 +25,129 @@
       </Text>
     </TextGroup>
     <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_LM59" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Stack Usage</Translation>
+      </Text>
+      <Text Id="__SingleUse_Y0DZ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_2GO9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">-</Translation>
+      </Text>
+      <Text Id="__SingleUse_T0W6" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_K29M" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">OK</Translation>
+      </Text>
+      <Text Id="__SingleUse_4F4R" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BA9X" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Heap Usage</Translation>
+      </Text>
+      <Text Id="__SingleUse_O64I" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HSH5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">-</Translation>
+      </Text>
+      <Text Id="__SingleUse_62N8" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_OWEV" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">OK</Translation>
+      </Text>
+      <Text Id="__SingleUse_9L9B" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_OUDP" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Flash Memory</Translation>
+      </Text>
+      <Text Id="__SingleUse_FCP9" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_KE93" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">-</Translation>
+      </Text>
+      <Text Id="__SingleUse_8LMG" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HO3E" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">OK</Translation>
+      </Text>
+      <Text Id="__SingleUse_EQRG" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_UM35" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">System Info</Translation>
+      </Text>
+      <Text Id="__SingleUse_W26I" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_1MK4" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">-</Translation>
+      </Text>
+      <Text Id="__SingleUse_XKTH" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_UZ6Y" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">OK</Translation>
+      </Text>
+      <Text Id="__SingleUse_XK8A" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_SO2B" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">CPU</Translation>
+      </Text>
+      <Text Id="__SingleUse_TVJW" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HKS5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">-</Translation>
+      </Text>
+      <Text Id="__SingleUse_BCX4" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_B6T0" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">OK</Translation>
+      </Text>
+      <Text Id="__SingleUse_XBOS" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_AEV6" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">OK</Translation>
+      </Text>
+      <Text Id="__SingleUse_PBOA" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">4.2KB / 640KB</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZIVU" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">RAM Usage</Translation>
+      </Text>
+      <Text Id="__SingleUse_RBGL" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BVN1" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_2BOA" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WATD" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">EXIT</Translation>
+      </Text>
+      <Text Id="__SingleUse_19BT" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">+</Translation>
+      </Text>
+      <Text Id="__SingleUse_DVFH" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">-</Translation>
+      </Text>
+      <Text Id="__SingleUse_28RV" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">PDM</Translation>
+      </Text>
+      <Text Id="__SingleUse_1XYQ" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">CPU</Translation>
+      </Text>
       <Text Id="__SingleUse_LLVS" Alignment="Center" TypographyId="Typography_00">
         <Translation Language="GB">LCD</Translation>
       </Text>

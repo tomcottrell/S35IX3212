@@ -20,6 +20,8 @@
 #include <gui/screeninputstest_screen/ScreenInputsTestPresenter.hpp>
 #include <gui/screenoutputstest_screen/ScreenOutputsTestView.hpp>
 #include <gui/screenoutputstest_screen/ScreenOutputsTestPresenter.hpp>
+#include <gui/screensystem_screen/ScreenSystemView.hpp>
+#include <gui/screensystem_screen/ScreenSystemPresenter.hpp>
 #include <gui/screenlcdtest_screen/ScreenLCDtestView.hpp>
 #include <gui/screenlcdtest_screen/ScreenLCDtestPresenter.hpp>
 
@@ -48,8 +50,9 @@ public:
             touchgfx::meta::TypeList< ScreenCANtestView,
             touchgfx::meta::TypeList< ScreenInputsTestView,
             touchgfx::meta::TypeList< ScreenOutputsTestView,
+            touchgfx::meta::TypeList< ScreenSystemView,
             touchgfx::meta::TypeList< ScreenLCDtestView,
-            touchgfx::meta::Nil > > > >
+            touchgfx::meta::Nil > > > > >
             > GeneratedViewTypes;
 
     /**
@@ -65,8 +68,9 @@ public:
             touchgfx::meta::TypeList< ScreenCANtestPresenter,
             touchgfx::meta::TypeList< ScreenInputsTestPresenter,
             touchgfx::meta::TypeList< ScreenOutputsTestPresenter,
+            touchgfx::meta::TypeList< ScreenSystemPresenter,
             touchgfx::meta::TypeList< ScreenLCDtestPresenter,
-            touchgfx::meta::Nil > > > >
+            touchgfx::meta::Nil > > > > >
             > GeneratedPresenterTypes;
 
     /**
